@@ -1,6 +1,6 @@
 # College Penetration Testing Report
 
-This repository contains penetration testing reports for colleges conducted by ethical hackers. The purpose of these tests is to identify security vulnerabilities and provide recommendations to enhance security measures, thereby protecting the colleges from potential cyber threats.
+This repository contains penetration testing colleges name by ethical hackers/normies. The purpose of these tests is to identify security vulnerabilities and provide recommendations to enhance security measures, thereby protecting the colleges from potential cyber threats.
 
 ## Colleges
 
