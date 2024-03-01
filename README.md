@@ -1,17 +1,19 @@
-# College Penetration Testing Report
+# College Penetration Testing
 
-This repository contains penetration testing colleges name by ethical hackers/normies. The purpose of these tests is to identify security vulnerabilities and provide recommendations to enhance security measures, thereby protecting the colleges from potential cyber threats.
+This repository serves as a list of colleges to be/will be penetration tested and reported to the appropriate authorities by individual or team OffensivePwnExperts. The purpose of this list is to facilitate the future penetration testing process and ensure responsible and ethical conduct.
 
 [Colleges list](/Colleges)
 
+## Updating the College List
 
-## Penetration Testing Reports
+Ethical hackers, normies, or any interested parties are encouraged to contribute to the college list by submitting pull requests to add or update information about colleges that need to be penetration tested.
 
-Penetration testing reports for each college are stored in this repository. The reports include detailed findings of security vulnerabilities discovered during the testing process, along with recommendations for mitigation.
+### Contribution Guidelines
 
-### How to Access Reports
-
-You can access the penetration testing reports for each college by navigating to the respective folders in this repository.
+- Ensure that the information provided is accurate and up-to-date.
+- Include necessary details such as the college name, website, contact information, etc.
+- Follow the Markdown formatting guidelines.
+- Provide a brief description of why the college needs to be penetration tested.
 
 ## Submission of Reports
 
@@ -21,7 +23,10 @@ Upon completion of the penetration testing, reports will be submitted to the fol
 - CERT-IN (Indian Computer Emergency Response Team) or relevant CERT authority
 - Other relevant cybersecurity authorities
 
+## Responsibility and Ethics
+
+The penetration testing of colleges will be conducted responsibly and ethically by individual or team OffensivePwnExperts. We adhere to ethical standards and guidelines while conducting our assessments to ensure the security and integrity of the testing process.
+
 ## Disclaimer
 
-The penetration testing conducted by ethical hackers is authorized and aims to improve cybersecurity. However, it's essential to understand that security is an ongoing process, and new vulnerabilities may arise over time. The colleges are encouraged to implement the recommendations provided in the reports and maintain regular security assessments to ensure continuous protection against cyber threats.
-
+The penetration testing conducted by ethical hackers aims to improve cybersecurity. However, it's essential to understand that security is an ongoing process, and new vulnerabilities may arise over time. The colleges are encouraged to implement the recommendations provided in the reports and maintain regular security assessments to ensure continuous protection against cyber threats.
