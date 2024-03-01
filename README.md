@@ -2,8 +2,14 @@
 
 This repository contains penetration testing colleges name by ethical hackers/normies. The purpose of these tests is to identify security vulnerabilities and provide recommendations to enhance security measures, thereby protecting the colleges from potential cyber threats.
 
-[Colleges list](/Colleges)
+## Colleges
 
+| College Name | Website          | Email               | Phone          | Map URL             |
+|--------------|------------------|---------------------|----------------|---------------------|
+| jiet engineering college    | [[URL 1] ](https://www.jietjodhpur.ac.in/)         | info@jietjodhpur.ac.in           |  9001895774      | [[Map URL 1] ](https://maps.app.goo.gl/C387DDn8bZCjzQKm7)        |
+| Megnad Saha Institute of Technology    | [MSIT](https://msit.edu.in/)          | [info@msit.edu.in](info@msit.edu.in)           | [Phone](+917044598807)      | [Map URL](https://www.google.com/maps?ll=22.51047,88.415088&z=13&t=m&hl=en-GB&gl=US&mapclient=embed&cid=13627599571396767696)         |
+| College 3    | [URL 3]          | [Email 3]           | [Phone 3]      | [Map URL 3]         |
+| College 4    | [URL 4]          | [Email 4]           | [Phone 4]      | [Map URL 4]         |
 
 ## Penetration Testing Reports
 
